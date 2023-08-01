@@ -1,5 +1,3 @@
-# Traversy Media Netflix Landing Page Clone
+#ThanksFlix - A Netflix Landing Page Clone 
 
-used as quick refresher for simple HTML/CSS/JS
-
-[View Demo](https://quentin-mckay.github.io/Traversy-Netflix-Clone/)
+Created NetFlix Landing Page clone using HTML,CSS & JS
